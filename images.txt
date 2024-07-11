@@ -5,3 +5,4 @@ savatar101/omniparse:0.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 goharbor/prepare:v2.5.3
+sonatype/nexus3:3.61.0
