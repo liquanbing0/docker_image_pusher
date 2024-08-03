@@ -6,3 +6,8 @@ savatar101/omniparse:0.1
 --platform=linux/arm64 xiaoyaliu/alist
 goharbor/prepare:v2.5.3
 sonatype/nexus3:3.61.0
+prom/prometheus
+prom/alertmanager
+grafana/grafana
+quay.io/prometheus/node-exporter
+google/cadvisor
