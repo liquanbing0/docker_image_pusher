@@ -11,5 +11,5 @@
 #grafana/grafana
 #quay.io/prometheus/node-exporter
 #google/cadvisor
-headscale/headscale:latest
+ghcr.io/headscale/headscale:latest
 ghcr.io/gurucomputing/headscale-ui:latest
