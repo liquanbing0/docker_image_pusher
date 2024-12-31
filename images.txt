@@ -11,5 +11,4 @@
 #grafana/grafana
 #quay.io/prometheus/node-exporter
 #google/cadvisor
-headscale/headscale:latest-alpine
-ghcr.io/gurucomputing/headscale-ui:latest
+rancher/prom-node-exporter
