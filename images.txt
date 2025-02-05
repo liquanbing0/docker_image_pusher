@@ -11,4 +11,6 @@
 #grafana/grafana
 #quay.io/prometheus/node-exporter
 #google/cadvisor
-rancher/prom-node-exporter
+#rancher/prom-node-exporter
+
+ ghcr.io/wg-easy/wg-easy
