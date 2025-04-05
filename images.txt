@@ -14,3 +14,4 @@
 #rancher/prom-node-exporter
 
  ghcr.io/wg-easy/wg-easy
+sonatype/nexus3:3.39.0
