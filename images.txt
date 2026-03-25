@@ -13,4 +13,5 @@
 #google/cadvisor
 #rancher/prom-node-exporter
 
-docker.n8n.io/n8nio/n8n:latest
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
+docker pull docker.io/grafana/grafana:12.4.1
