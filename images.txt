@@ -14,4 +14,4 @@
 #rancher/prom-node-exporter
 
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
-docker pull docker.io/grafana/grafana:12.4.1
+docker.io/grafana/grafana:12.4.1
