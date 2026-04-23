@@ -13,5 +13,5 @@
 #google/cadvisor
 #rancher/prom-node-exporter
 
-vectorize/hindsight:latest
+ghcr.io/vectorize-io/hindsight:latest
 
