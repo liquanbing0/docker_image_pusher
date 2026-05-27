@@ -1,1 +1,1 @@
-nexus3:latest
+nginx:latest
