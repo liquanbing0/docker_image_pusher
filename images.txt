@@ -14,5 +14,5 @@
 #rancher/prom-node-exporter
 
 # ghcr.io/vectorize-io/hindsight:latest
-ghcr.io/berriai/litellm:main-latest
+# ghcr.io/berriai/litellm:main-latest
 postgres:16
