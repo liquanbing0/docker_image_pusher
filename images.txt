@@ -1,1 +1,2 @@
-ubuntu:latest
+# ubuntu:latest
+rancher/rancher:latest
