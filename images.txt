@@ -1,2 +1,1 @@
-langfuse/langfuse:latest
-postgres:16-alpine
+clickhouse/clickhouse-server:24.3-alpine
