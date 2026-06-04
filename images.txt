@@ -1,1 +1,1 @@
- langfuse/langfuse-worker:3
+langfuse/langfuse-worker:3
