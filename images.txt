@@ -1,1 +1,2 @@
-clickhouse/clickhouse-server:24.3-alpine
+redis:7-alpine
+minio:latest
