@@ -1,1 +1,2 @@
-langfuse/langfuse-worker:3
+mcp/grafana:latest
+library/postgres:18.3-alpine
