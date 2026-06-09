@@ -1,2 +1,3 @@
 mcp/grafana:latest
 library/postgres:18.3-alpine
+library/nginx:latest
