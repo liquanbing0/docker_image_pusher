@@ -1,1 +1,5 @@
 sonatype/nexus3:3.96.0
+vxcontrol/pentagi:latest
+vxcontrol/pgvector:latest
+vxcontrol/scraper:latest
+quay.io/prometheuscommunity/postgres-exporter:v0.16.0
