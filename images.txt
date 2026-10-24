@@ -3,3 +3,4 @@ vxcontrol/pentagi:latest
 vxcontrol/pgvector:latest
 vxcontrol/scraper:latest
 quay.io/prometheuscommunity/postgres-exporter:v0.16.0
+vxcontrol/graphiti:latest
