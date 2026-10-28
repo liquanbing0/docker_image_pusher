@@ -4,3 +4,4 @@ vxcontrol/pgvector:latest
 vxcontrol/scraper:latest
 quay.io/prometheuscommunity/postgres-exporter:v0.16.0
 vxcontrol/graphiti:latest
+docker.io/library/nginx:1.26
