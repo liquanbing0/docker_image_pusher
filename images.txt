@@ -5,3 +5,8 @@ vxcontrol/scraper:latest
 quay.io/prometheuscommunity/postgres-exporter:v0.16.0
 vxcontrol/graphiti:latest
 docker.io/library/nginx:1.26
+jumpserver/core:v4.10.20-ce
+jumpserver/web:v4.10.20-ce
+jumpserver/koko:v4.10.20-ce
+jumpserver/lion:v4.10.20-ce
+jumpserver/chen:v4.10.20-ce
